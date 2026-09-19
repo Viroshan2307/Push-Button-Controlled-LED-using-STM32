@@ -102,4 +102,4 @@ HERE:   DJNZ R1, HERE
 
 ## Result
 
-When the push button connected to P1.4 is pressed, the buzzer sounds. When the push button is released, the buzzer stops. The Proteus simulation verifies successful interfacing of the buzzer with the 8051 microcontroller.
+When the push button connected to P1.4 is pressed, the buzzer sounds. When the push button is released, the buzzer stops. The Proteus simulation verifies successful interfacing of the buzzer with the 8051 microcontroller..
